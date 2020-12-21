@@ -3,6 +3,7 @@ Parses Sonicwall Rules, Groups, and Services from a settings export file.
 
 # Example Usage
 python ./parser2.py sampleExport.exp
+
 python3 ./parser3.py sampleExport.exp
 
 ```
